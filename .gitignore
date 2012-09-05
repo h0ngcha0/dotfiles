@@ -1,6 +1,15 @@
-dist
-cabal-dev
-*.o
-*.hi
-*.chi
-*.chs.h
+# emacs shit files
+\#*\#
+.\#*
+
+# shitty system???
+system.bup
+
+# binaries
+*.beam
+*.pyc
+
+# common test
+ct_run.*
+ct.spec
+variables-kred@braxen

@@ -1,0 +1,37 @@
+XTerm*background		: black
+XTerm*foreground		: white
+xterm*cutToBeginningOfLine	: false
+xterm*cutNewline		: false
+xterm*bellIsUrgent		: true
+
+XLock.mode			: blank
+
+URxvt*font			: 8x13
+URxvt*scrollBar			: false
+URxvt.perl-ext-common		: default,matcher
+URxvt.urlLauncher		: opera
+URxvt.matcher.button		: 1
+URxvt*foreground		: #ffffff
+URxvt*background		: #202020
+URxvt*color0			: #1e1e1e
+URxvt*color1			: #f13a21
+URxvt*color2			: #93f91d
+URxvt*color3			: #ffd00a
+URxvt*color4			: #004f9e
+URxvt*color5			: #ec0048
+URxvt*color6			: #2aa7e7
+URxvt*color7			: #e2e2e2
+URxvt*color8			: #1d202f
+URxvt*color9			: #ff361e
+URxvt*color10			: #ffc005
+URxvt*color11			: #93ff00
+URxvt*color12			: #0071ff
+URxvt*color13			: #ef0051
+URxvt*color14			: #4bb8fd
+URxvt*color15			: #e2e2e2
+URxvt.urgentOnBell		: true
+
+Emacs.menuBar			: off
+Emacs.toolBar			: -1
+Emacs.verticalScrollBars	: off
+Emacs*font			: Droid Sans Mono 12
